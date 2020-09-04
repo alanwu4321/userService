@@ -16,7 +16,7 @@
     "http-errors": "~1.6.3",
     "jade": "^1.9.x",
     "kerberos": "0.0.24",
-    "mongodb": "~2.0",
+    "mongodb": "~3.1",
     "mongoosastic": "^4.4.1",
     "mongoose": "^5.5.12",
     "morgan": "~1.9.1"
